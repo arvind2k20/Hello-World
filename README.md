@@ -11,9 +11,4 @@ Click Commit changes button.
 
 
 
-Second edits starts
-fsdfsdf
-f
-sdf
-sd
-f
+Heere comes the master branch
